@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/tags/"
+                />
+  </url>
+  
+</urlset>
