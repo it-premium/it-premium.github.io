@@ -1,1 +1,0 @@
-function initMap(){var itPremium={lat:50.438543,lng:30.5012674};var map=new google.maps.Map(document.getElementById('map'),{zoom:13,center:itPremium,mapTypeId:google.maps.MapTypeId.ROADMAP});var marker=new google.maps.Marker({position:itPremium,map:map});}
