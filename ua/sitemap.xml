@@ -3,59 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/</loc>
+    <loc>http://it-premium.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/ru/"
+                href="http://it-premium.github.io/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/en/"
+                href="http://it-premium.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/"
+                href="http://it-premium.github.io/"
                 />
   </url>
   
   <url>
-    <loc>http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/categories/</loc>
+    <loc>http://it-premium.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/ru/categories/"
+                href="http://it-premium.github.io/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/en/categories/"
+                href="http://it-premium.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/categories/"
+                href="http://it-premium.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/tags/</loc>
+    <loc>http://it-premium.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/ru/tags/"
+                href="http://it-premium.github.io/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/en/tags/"
+                href="http://it-premium.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/tags/"
+                href="http://it-premium.github.io/tags/"
                 />
   </url>
   

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on IT-Premium the premium support for IT services</title>
-    <link>http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/en/tags/</link>
+    <link>http://it-premium.github.io/en/tags/</link>
     <description>Recent content in Tags on IT-Premium the premium support for IT services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>uk-UA</language>
     
-	<atom:link href="http://it-premium.com.ua.s3-website-us-east-1.amazonaws.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://it-premium.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
