@@ -1,1 +1,62 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://it-premium.github.io/ru/</loc><xhtml:link rel="alternate" hreflang="ua" href="https://it-premium.github.io/"/><xhtml:link rel="alternate" hreflang="en" href="https://it-premium.github.io/en/"/><xhtml:link rel="alternate" hreflang="ru" href="https://it-premium.github.io/ru/"/></url><url><loc>https://it-premium.github.io/ru/categories/</loc><xhtml:link rel="alternate" hreflang="ua" href="https://it-premium.github.io/categories/"/><xhtml:link rel="alternate" hreflang="en" href="https://it-premium.github.io/en/categories/"/><xhtml:link rel="alternate" hreflang="ru" href="https://it-premium.github.io/ru/categories/"/></url><url><loc>https://it-premium.github.io/ru/tags/</loc><xhtml:link rel="alternate" hreflang="ua" href="https://it-premium.github.io/tags/"/><xhtml:link rel="alternate" hreflang="en" href="https://it-premium.github.io/en/tags/"/><xhtml:link rel="alternate" hreflang="ru" href="https://it-premium.github.io/ru/tags/"/></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://it-premium.github.io/ru/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://it-premium.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://it-premium.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://it-premium.github.io/ru/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://it-premium.github.io/ru/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://it-premium.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://it-premium.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://it-premium.github.io/ru/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://it-premium.github.io/ru/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://it-premium.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://it-premium.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://it-premium.github.io/ru/tags/"
+                />
+  </url>
+  
+</urlset>
