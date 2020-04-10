@@ -3,59 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://it-premium.github.io/en/</loc>
+    <loc>https://it-premium.com.ua/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://it-premium.github.io/"
+                href="https://it-premium.com.ua/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://it-premium.github.io/ru/"
+                href="https://it-premium.com.ua/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://it-premium.github.io/en/"
+                href="https://it-premium.com.ua/en/"
                 />
   </url>
   
   <url>
-    <loc>https://it-premium.github.io/en/categories/</loc>
+    <loc>https://it-premium.com.ua/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://it-premium.github.io/categories/"
+                href="https://it-premium.com.ua/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://it-premium.github.io/ru/categories/"
+                href="https://it-premium.com.ua/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://it-premium.github.io/en/categories/"
+                href="https://it-premium.com.ua/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://it-premium.github.io/en/tags/</loc>
+    <loc>https://it-premium.com.ua/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://it-premium.github.io/tags/"
+                href="https://it-premium.com.ua/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://it-premium.github.io/ru/tags/"
+                href="https://it-premium.com.ua/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://it-premium.github.io/en/tags/"
+                href="https://it-premium.com.ua/en/tags/"
                 />
   </url>
   
