@@ -5,10 +5,6 @@
     <link>https://it-premium.com.ua/tags/</link>
     <description>Recent content in Tags on Найкраще ІТ обслуговування для бізнесу</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>uk-UA</language>
-    
-	<atom:link href="https://it-premium.com.ua/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>uk-UA</language><atom:link href="https://it-premium.com.ua/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
