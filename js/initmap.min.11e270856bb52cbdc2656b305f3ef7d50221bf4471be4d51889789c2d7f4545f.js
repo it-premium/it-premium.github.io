@@ -1,0 +1,1 @@
+function initMap(){var e={lat:50.438543,lng:30.5012674},t=new google.maps.Map(document.getElementById('map'),{zoom:13,center:e,mapTypeId:google.maps.MapTypeId.ROADMAP}),n=new google.maps.Marker({position:e,map:t,title:'Паньковская 18, офис 11',clickable:!0})}
