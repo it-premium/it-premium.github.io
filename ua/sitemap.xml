@@ -20,6 +20,18 @@
                 href="https://it-premium.com.ua/it-service/"
                 />
   </url><url>
+    <loc>https://it-premium.com.ua/audit-and-consulting/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://it-premium.com.ua/ru/audit-and-consulting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://it-premium.com.ua/audit-and-consulting/"
+                />
+  </url><url>
     <loc>https://it-premium.com.ua/</loc>
     <lastmod>2020-12-08T00:00:00+00:00</lastmod>
     <xhtml:link
