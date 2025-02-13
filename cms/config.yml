@@ -1,0 +1,156 @@
+i18n:
+  structure: multiple_files
+  locales: [en, ru, ua]
+  default_locale: ua
+
+local_backend: true
+
+backend:
+  name: git-gateway
+#  name: github
+  branch: decap-cms
+  repo: mprokopov/it-premium-static
+
+media_folder: "/static/img" # Folder where user uploaded files should go
+public_folder: "/img"
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+    i18n: true
+    media_folder: "/static/img"
+    public_folder: "/img"
+    label: "Post" # Used in the UI, ie.: "New Post"
+    folder: "content/post" # The path to the folder where the documents are stored
+    path: "{{slug}}/index"
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string", i18n: true}
+      - {label: "Publish Date", name: "date", widget: "datetime", i18n: true}
+      - {label: "Intro Blurb", name: "description", widget: "text", i18n: true}
+      - {label: "Image", name: "image", widget: "image", required: false, i18n: true}
+      - {label: "Body", name: "body", widget: "markdown", i18n: true}
+
+  - name: "services" # Used in routes, ie.: /admin/collections/:slug/edit
+    i18n: true
+    label: "Services" # Used in the UI, ie.: "New Post"
+    folder: "content/services" # The path to the folder where the documents are stored
+    path: "{{slug}}/_index"
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string", i18n: true}
+      - {label: "Publish Date", name: "date", widget: "datetime", i18n: true}
+      - {label: "Intro Blurb", name: "description", widget: "text", i18n: true}
+      - {label: "Image", name: "image", widget: "image", required: false, i18n: true, media_library: { name: "cloudinary",    "output_filename_only": true} }
+      - {label: "Body", name: "body", widget: "markdown", i18n: true}
+
+
+  - name: "Home" # Used in routes, ie.: /admin/collections/:slug/edit
+    i18n:
+      structure: multiple_files
+      locales: [en, ru, ua]
+      default_locale: ua
+    media_folder: "/static/img"
+    public_folder: "/img"
+    label: "Home" # Used in the UI, ie.: "New Post"
+    folder: "content" # The path to the folder where the documents are stored
+    path: "_index"
+    fields:
+      - label: Hero
+        name: hero
+        widget: object
+        i18n: true
+        fields:
+          - { label: header, name: header, widget: "string", i18n: true}
+          - label: features
+            name: features
+            widget: list
+            i18n: true
+            fields:
+              - { label: title, name: title, widget: "string", i18n: true }
+              - { label: description, name: description, widget: "markdown", i18n: true }
+              - { label: icon, name: icon, widget: "string", i18n: true }
+      - { label: title, name: title, widget: "string", i18n: true}
+      - label: price_packages
+        name: price_packages
+        widget: list
+        i18n: true
+        fields:
+          - label: id
+            name: id
+            widget: string
+            i18n: true
+          - label: title
+            name: title
+            widget: string
+            i18n: true
+          - label: rate
+            name: rate
+            widget: string
+          - label: basis
+            name: basis
+            widget: number
+          - label: multiplier
+            name: multiplier
+            widget: number
+          - label: features
+            name: features
+            widget: list
+      - label: manage
+        name: manage
+        i18n: true
+        widget: object
+        fields:
+        - { label: title, name: title, widget: "string", i18n: true}
+        - { label: description, name: description, widget: "markdown", i18n: true}
+      - label: meta
+        name: meta
+        widget: object
+        i18n: true
+        fields:
+        - { label: description, name: "description", widget: "markdown", i18n: true }
+      - label: testimonials
+        name: testimonials
+        widget: list
+        i18n: true
+        fields:
+        - { label: customer, name: customer, widget: "string", i18n: true }
+        - { label: url, name: url, widget: "string", i18n: true }
+        - { label: person, name: person, widget: "string", required: false, i18n: true }
+        - { label: position, name: position, widget: "string", required: false, i18n: true }
+        - { label: text, name: text, widget: "markdown", required: false, i18n: true }
+        - { label: enabled, name: enabled, widget: "boolean", i18n: true }
+      - label: services
+        name: services
+        widget: list
+        i18n: true
+        fields:
+          - label: row
+            name: row
+            widget: list
+            collapsed: true
+            minimize_collapsed: true
+            i18n: true
+            fields:
+            - label: title
+              name: title
+              widget: string
+              i18n: true
+            - label: slug
+              name: slug
+              widget: string
+              required: false
+              i18n: true
+            - label: size
+              name: size
+              widget: select
+              options: [one-third, two-thirds]
+              i18n: true
+            - label: icon
+              name: icon
+              required: false
+              widget: number
+              i18n: true
+      - { label: press, name: press,
+          summary: "Show press section",
+          i18n: true,
+          widget: "object", fields: [{ label: "Show press section" , name: enabled , widget: "boolean", i18n: true}]}

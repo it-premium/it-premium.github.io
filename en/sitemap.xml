@@ -20,8 +20,26 @@
                 href="https://it-premium.com.ua/en/it-service/"
                 />
   </url><url>
-    <loc>https://it-premium.com.ua/en/</loc>
+    <loc>https://it-premium.com.ua/en/services/it-service/</loc>
     <lastmod>2020-12-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://it-premium.com.ua/services/it-service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://it-premium.com.ua/ru/services/it-service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://it-premium.com.ua/en/services/it-service/"
+                />
+  </url><url>
+    <loc>https://it-premium.com.ua/en/</loc>
+    <lastmod>2024-05-08T12:07:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
@@ -36,6 +54,60 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://it-premium.com.ua/en/"
+                />
+  </url><url>
+    <loc>https://it-premium.com.ua/en/services/remote-server-bas/</loc>
+    <lastmod>2024-05-08T12:07:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://it-premium.com.ua/services/remote-server-bas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://it-premium.com.ua/ru/services/remote-server-bas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://it-premium.com.ua/en/services/remote-server-bas/"
+                />
+  </url><url>
+    <loc>https://it-premium.com.ua/en/services/</loc>
+    <lastmod>2024-05-08T12:07:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://it-premium.com.ua/services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://it-premium.com.ua/ru/services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://it-premium.com.ua/en/services/"
+                />
+  </url><url>
+    <loc>https://it-premium.com.ua/en/services/audit-and-consulting/</loc>
+    <lastmod>2024-05-07T13:29:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://it-premium.com.ua/services/audit-and-consulting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://it-premium.com.ua/ru/services/audit-and-consulting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://it-premium.com.ua/en/services/audit-and-consulting/"
                 />
   </url><url>
     <loc>https://it-premium.com.ua/en/categories/</loc>
@@ -53,6 +125,23 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://it-premium.com.ua/en/categories/"
+                />
+  </url><url>
+    <loc>https://it-premium.com.ua/en/post/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://it-premium.com.ua/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://it-premium.com.ua/ru/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://it-premium.com.ua/en/post/"
                 />
   </url><url>
     <loc>https://it-premium.com.ua/en/tags/</loc>
