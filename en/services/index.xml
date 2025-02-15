@@ -6,7 +6,28 @@
     <description>Recent content in Services on IT-Premium the premium support for IT services</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 13:29:00 +0000</lastBuildDate>
     <atom:link href="https://it-premium.com.ua/en/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technical IT support</title>
+      <link>https://it-premium.com.ua/en/services/it-service/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://it-premium.com.ua/en/services/it-service/</guid>
+      <description>&lt;p&gt;Respond quickly to service requests - It is important to respond quickly to service requests from customers.&lt;/p&gt;&#xA;&lt;p&gt;Effective communication with customers - Establishing clear and understandable communication with customers is key.&lt;/p&gt;&#xA;&lt;p&gt;Competent technical support - Providing qualified technical support at a high level.&lt;/p&gt;&#xA;&lt;p&gt;Regular maintenance and system updates - It is important to regularly maintain and update systems to ensure their stable operation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Аудит і консультування</title>
+      <link>https://it-premium.com.ua/en/services/audit-and-consulting/</link>
+      <pubDate>Tue, 07 May 2024 13:29:00 +0000</pubDate>
+      <guid>https://it-premium.com.ua/en/services/audit-and-consulting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://it-premium.com.ua/en/services/remote-server-bas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://it-premium.com.ua/en/services/remote-server-bas/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

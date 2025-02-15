@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on IT-Premium the premium support for IT services</title>
-    <link>https://it-premium.com.ua/en/post/</link>
+    <link>https://it-premium.com.ua/en/blog/</link>
     <description>Recent content in Posts on IT-Premium the premium support for IT services</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://it-premium.com.ua/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://it-premium.com.ua/en/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
