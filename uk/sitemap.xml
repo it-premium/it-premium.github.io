@@ -2,25 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://it-premium.com.ua/services/audit-and-consulting/</loc>
-    <lastmod>2025-02-13T18:57:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://it-premium.com.ua/ru/services/audit-and-consulting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://it-premium.com.ua/en/services/audit-and-consulting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk"
-                href="https://it-premium.com.ua/services/audit-and-consulting/"
-                />
-  </url><url>
     <loc>https://it-premium.com.ua/it-service/</loc>
     <lastmod>2020-12-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -70,6 +51,25 @@
                 rel="alternate"
                 hreflang="uk"
                 href="https://it-premium.com.ua/services/"
+                />
+  </url><url>
+    <loc>https://it-premium.com.ua/services/audit-and-consulting/</loc>
+    <lastmod>2025-02-13T18:57:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://it-premium.com.ua/ru/services/audit-and-consulting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://it-premium.com.ua/en/services/audit-and-consulting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://it-premium.com.ua/services/audit-and-consulting/"
                 />
   </url><url>
     <loc>https://it-premium.com.ua/</loc>
