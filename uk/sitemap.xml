@@ -180,6 +180,16 @@
   </url><url>
     <loc>https://it-premium.com.ua/blog/1c-bas/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://it-premium.com.ua/ru/blog/1c-bas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://it-premium.com.ua/blog/1c-bas/"
+                />
   </url><url>
     <loc>https://it-premium.com.ua/services/remote-server-bas/</loc>
     <changefreq>weekly</changefreq>
