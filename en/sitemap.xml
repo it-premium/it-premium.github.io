@@ -133,6 +133,19 @@
                 href="https://it-premium.com.ua/en/categories/"
                 />
   </url><url>
+    <loc>https://it-premium.com.ua/en/blog/deepseek-grok3-it-outsourcing/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://it-premium.com.ua/blog/deepseek-grok3-it-outsourcing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://it-premium.com.ua/en/blog/deepseek-grok3-it-outsourcing/"
+                />
+  </url><url>
     <loc>https://it-premium.com.ua/en/blog/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
