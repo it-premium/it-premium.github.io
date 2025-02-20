@@ -27,6 +27,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string", i18n: true}
       - {label: "Image", name: "image", widget: "image", required: false, i18n: true}
       - {label: "Body", name: "body", widget: "markdown", i18n: true}
+      - {label: "Slug", name: "slug", widget: "string", i18n: true, required: false}
       - label: "meta"
         name: "meta"
         widget: "object"
