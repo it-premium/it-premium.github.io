@@ -160,6 +160,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://it-premium.com.ua/en/services/backup-and-restore/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="uk"
                 href="https://it-premium.com.ua/services/backup-and-restore/"
                 />
