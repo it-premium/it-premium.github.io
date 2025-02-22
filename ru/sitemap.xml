@@ -163,6 +163,19 @@
                 href="https://it-premium.com.ua/ru/tags/"
                 />
   </url><url>
+    <loc>https://it-premium.com.ua/ru/services/backup-and-restore/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://it-premium.com.ua/services/backup-and-restore/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://it-premium.com.ua/ru/services/backup-and-restore/"
+                />
+  </url><url>
     <loc>https://it-premium.com.ua/ru/blog/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B8%D1%82-%D1%83%D1%81%D0%BB%D1%83%D0%B3/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
