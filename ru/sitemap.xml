@@ -230,6 +230,24 @@
                 href="https://it-premium.com.ua/ru/blog/"
                 />
   </url><url>
+    <loc>https://it-premium.com.ua/ru/services/server-support/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://it-premium.com.ua/services/server-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://it-premium.com.ua/en/services/server-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://it-premium.com.ua/ru/services/server-support/"
+                />
+  </url><url>
     <loc>https://it-premium.com.ua/ru/blog/1c-bas/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -259,6 +277,24 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://it-premium.com.ua/ru/services/remote-server-bas/"
+                />
+  </url><url>
+    <loc>https://it-premium.com.ua/ru/services/website-support-and-management/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://it-premium.com.ua/services/website-support-and-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://it-premium.com.ua/en/services/website-support-and-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://it-premium.com.ua/ru/services/website-support-and-management/"
                 />
   </url><url>
     <loc>https://it-premium.com.ua/ru/blog/%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5-%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0/</loc>

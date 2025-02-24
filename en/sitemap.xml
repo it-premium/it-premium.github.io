@@ -231,6 +231,24 @@
                 href="https://it-premium.com.ua/en/blog/"
                 />
   </url><url>
+    <loc>https://it-premium.com.ua/en/services/server-support/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://it-premium.com.ua/services/server-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://it-premium.com.ua/ru/services/server-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://it-premium.com.ua/en/services/server-support/"
+                />
+  </url><url>
     <loc>https://it-premium.com.ua/en/tags/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -247,6 +265,24 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://it-premium.com.ua/en/tags/"
+                />
+  </url><url>
+    <loc>https://it-premium.com.ua/en/services/website-support-and-management/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://it-premium.com.ua/services/website-support-and-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://it-premium.com.ua/ru/services/website-support-and-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://it-premium.com.ua/en/services/website-support-and-management/"
                 />
   </url>
 </urlset>
