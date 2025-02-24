@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="uk">
+    <head>
+    <title>Що робити, коли сервер з важливими даними зашифрував вірус: покрокові рекомендації - IT-Premium найкраще ІТ обслуговування для бізнесу</title><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Дізнайтесь, що робити, якщо сервер з важливими даними зашифрував вірус-вимагач. Покрокові рекомендації: ізоляція, відновлення даних, захист від ransomware. Поради з кібербезпеки для бізнесу та уникнення атак у майбутньому.">
+
+<meta name="keywords" content="вірус зашифрував сервер,що робити при атаці ransomware,відновлення даних після шифрування,захист сервера від вірусів,кібербезпека для бізнесу,ransomware рекомендації,як розшифрувати файли,резервне копіювання даних">
+
+<link rel="stylesheet" href="https://it-premium.com.ua/style.min.59b47a51e0dbbcf1faabb0ce4c9f05f90e083d7eae92433821ef9e327d9afb0c.css">
+<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+<script defer data-domain="it-premium.com.ua" src="https://analytics.prokopov.me/js/script.js"></script>
+
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WXXRXNBC');</script>
+
+
+<script id="prop" type="text/html">
+    <li>
+        <div class="checkbox">
+            <input data-bind="checked: checked, attr: {id: label}" type="checkbox">
+            <label data-bind="attr: { for: label },text: name">
+            </label>
+        </div>
+        <div class="amount-line" data-bind="visible: has_input">
+            <div class="amount">
+                <input class="amount-input" data-bind="textInput: value" type="text">
+                <div class="amount-change"><a class="up" data-bind="click: incrementCounter" href="#">+</a><a class="down" data-bind="click: decrementCounter" href="#">-</a></div>
+            </div>
+        </div>
+        <span class="text" data-bind="text:input_name"></span>
+    </li>
+</script>
+</head>
+    <body><div class="container">
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="https://it-premium.com.ua/"> <img src="/images/logo.png " width="240px;" height="34px;" alt="IT-Premium logo"/></a>
+
+            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarRest" data-bind="click:toggleBurger,class:burgerStatus">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div id="navbarRest" class="navbar-menu" data-bind="class:burgerStatus">
+            <div class="navbar-end">
+                <a class="navbar-item telephone" href="tel:380445457732">
+                    <span itemprop="telephone">38 (044) 545-77-32</span></a>
+                <div class="navbar-item">
+                    <a class="button primary-btn" href="https://beta.it-premium.com.ua" rel="nofollow">Вхід для клієнтів</a>
+                </div>
+                <div class="navbar-item">
+                    
+                    <a class="language__name" href="https://it-premium.com.ua/"><i class="language__flag language__flag--uk"></i>Мова</a>
+                    
+                    <a class="language__name" href="https://it-premium.com.ua/ru/"><i class="language__flag language__flag--ru"></i>Рус</a>
+                    
+                    <a class="language__name" href="https://it-premium.com.ua/en/"><i class="language__flag language__flag--en"></i>En</a>
+                    
+                </div>
+            </div>
+        </div>
+    </nav>
+</div>
+
+<section class="section content-page">
+    <div class="container">
+        <div class="columns">
+            <div class="column">
+                <h1 class="title hero__title" itemprop="name">
+                    Що робити, коли сервер з важливими даними зашифрував вірус: покрокові рекомендації
+                </h1>
+        <!-- _default/single.html -->
+                <div class="content">
+                    <p>Ситуація, коли сервер з важливими даними зашифрував вірус-вимагач (ransomware), може стати справжнім кошмаром для компанії чи приватного користувача. Такі інциденти загрожують втратою доступу до критично важливих файлів, зупинкою бізнес-процесів і навіть фінансовими збитками. У цій статті ми розглянемо, що робити в такій ситуації, як мінімізувати шкоду та як запобігти подібним випадкам у майбутньому. Ці поради будуть корисними як для системних адміністраторів, так і для власників бізнесу.</p>
+<h4 id="1-зберігайте-спокій-і-не-поспішайте-платити-викуп">1. Зберігайте спокій і не поспішайте платити викуп</h4>
+<p>Перше, що спадає на думку в такій ситуації — виконати вимоги зловмисників і заплатити викуп за ключ дешифрування. Проте це не гарантує повернення даних. За статистикою, лише у 60% випадків жертви отримують робочий ключ після оплати. До того ж, сплата викупу підтримує злочинну діяльність. Замість цього зосередьтеся на оцінці ситуації та подальших діях.</p>
+<h4 id="2-ізолюйте-заражений-сервер">2. Ізолюйте заражений сервер</h4>
+<p>Щоб зупинити поширення вірусу, негайно відключіть заражений сервер від мережі. Вимкніть Wi-Fi, витягніть кабель Ethernet і відключіть усі підключені пристрої. Це допоможе запобігти зараженню інших систем у вашій мережі.</p>
+<h4 id="3-визначте-тип-вірусу-вимагача">3. Визначте тип вірусу-вимагача</h4>
+<p>Не всі ransomware однакові. Деякі з них мають відомі слабкості або інструменти для дешифрування. Спробуйте ідентифікувати вірус: зверніть увагу на розширення зашифрованих файлів (наприклад, .locky, .wannacry) та повідомлення від зловмисників. Скористайтеся безкоштовними онлайн-ресурсами, такими як No More Ransom, щоб перевірити, чи існує публічний інструмент для розшифровки.</p>
+<h4 id="4-зверніться-до-фахівців-з-кібербезпеки">4. Зверніться до фахівців з кібербезпеки</h4>
+<p>Якщо у вас немає досвіду боротьби з вірусами-вимагачами, негайно зверніться до професіоналів. Компанії, що спеціалізуються на кібербезпеці, можуть допомогти оцінити масштаб проблеми, спробувати відновити дані та розробити план захисту на майбутнє.</p>
+<h4 id="5-перевірте-наявність-резервних-копій">5. Перевірте наявність резервних копій</h4>
+<p>Якщо у вас є актуальні резервні копії (backups), це може врятувати ситуацію. Переконайтеся, що копії не заражені, перш ніж використовувати їх для відновлення. Відновлюйте дані на чистій системі, попередньо перевстановивши операційну систему на сервері.</p>
+<h4 id="6-повідомте-правоохоронні-органи">6. Повідомте правоохоронні органи</h4>
+<p>Хоча шанси на швидке розкриття злочину невеликі, повідомлення про інцидент у поліцію чи кіберполіцію може бути корисним. У деяких країнах це також юридична вимога для компаній, які зазнали витоку даних.</p>
+<h4 id="7-очистіть-систему-та-усуньте-вразливості">7. Очистіть систему та усуньте вразливості</h4>
+<p>Після ізоляції вірусу перевстановіть операційну систему та всі програми на сервері. Переконайтеся, що всі патчі безпеки встановлені, а антивірусне програмне забезпечення оновлене. Проаналізуйте, як вірус потрапив у систему — через фішинг, вразливість у програмному забезпеченні чи інший спосіб — і закрийте ці &ldquo;двері&rdquo;.</p>
+<h4 id="8-розробіть-стратегію-на-майбутнє">8. Розробіть стратегію на майбутнє</h4>
+<p>Щоб уникнути повторення ситуації, впровадьте наступні заходи:</p>
+<ul>
+<li>Регулярно створюйте резервні копії та зберігайте їх на відокремлених носіях.</li>
+<li>Використовуйте надійне антивірусне програмне забезпечення та фаєрволи.</li>
+<li>Навчайте співробітників основам кібербезпеки, зокрема як розпізнавати фішингові листи.</li>
+<li>Оновлюйте програмне забезпечення та операційні системи вчасно.</li>
+</ul>
+<h4 id="висновок">Висновок</h4>
+<p>Зіткнення з вірусом-вимагачем — серйозне випробування, але правильні дії можуть значно зменшити збитки. Головне — діяти швидко, ізолювати проблему та звертатися за допомогою до фахівців, якщо це необхідно. А найкращий захист — це превентивні заходи, які допоможуть уникнути подібних інцидентів у майбутньому.</p>
+
+                </div>
+            </div>
+        </div><div class="hero__cta">
+  <a class="button is-primary button__cta" href="tel:+380445457732">Проконсультуйтесь зараз</a>
+</div>
+
+    </div>
+</section>
+<script src="/js/main.js"></script>
+
+
+<script src="https://it-premium.com.ua/js/initmap.min.e9f249fc9fb27f7e07e200a8cca34dc88c68e4bc34722ae7b1de841a7a752cf4.js"> </script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCL9pCpumG1Z-Fi2Jy8R8mQv1e328dXNHU&callback=initMap&loading=async"> </script>
+
+
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXXRXNBC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<script>
+ if (window.netlifyIdentity) {
+     window.netlifyIdentity.on("init", (user) => {
+         if (!user) {
+             window.netlifyIdentity.on("login", () => {
+                 document.location.href = "/admin/";
+             });
+         }
+     });
+ }
+</script>
+</body>
+</html>
