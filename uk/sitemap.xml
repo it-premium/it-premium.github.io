@@ -298,6 +298,16 @@
   </url><url>
     <loc>https://it-premium.com.ua/services/voip-telephony/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://it-premium.com.ua/en/services/voip-telephony/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://it-premium.com.ua/services/voip-telephony/"
+                />
   </url><url>
     <loc>https://it-premium.com.ua/services/remote-server-bas/</loc>
     <changefreq>weekly</changefreq>
