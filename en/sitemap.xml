@@ -115,6 +115,19 @@
                 href="https://it-premium.com.ua/en/services/remote-server-bas/"
                 />
   </url><url>
+    <loc>https://it-premium.com.ua/en/blog/eutelsat-starlink-ukraine/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://it-premium.com.ua/blog/eutelsat-replace-starlink-ukraine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://it-premium.com.ua/en/blog/eutelsat-starlink-ukraine/"
+                />
+  </url><url>
     <loc>https://it-premium.com.ua/en/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
