@@ -40,22 +40,22 @@
                 href="https://it-premium.com.ua/en/services/it-service/"
                 />
   </url><url>
-    <loc>https://it-premium.com.ua/en/blog/eutelsat-starlink-ukraine/</loc>
-    <lastmod>2025-03-07T06:27:00+00:00</lastmod>
+    <loc>https://it-premium.com.ua/en/blog/tj-actions-changed-files-github-action-vulnerability/</loc>
+    <lastmod>2025-03-17T08:17:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="https://it-premium.com.ua/blog/eutelsat-replace-starlink-ukraine/"
+                href="https://it-premium.com.ua/blog/tj-actions-changed-files-github-action-vulnerability/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://it-premium.com.ua/en/blog/eutelsat-starlink-ukraine/"
+                href="https://it-premium.com.ua/en/blog/tj-actions-changed-files-github-action-vulnerability/"
                 />
   </url><url>
     <loc>https://it-premium.com.ua/en/</loc>
-    <lastmod>2025-03-07T06:27:00+00:00</lastmod>
+    <lastmod>2025-03-17T08:17:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -74,7 +74,7 @@
                 />
   </url><url>
     <loc>https://it-premium.com.ua/en/blog/</loc>
-    <lastmod>2025-03-07T06:27:00+00:00</lastmod>
+    <lastmod>2025-03-17T08:17:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -90,6 +90,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://it-premium.com.ua/en/blog/"
+                />
+  </url><url>
+    <loc>https://it-premium.com.ua/en/blog/eutelsat-starlink-ukraine/</loc>
+    <lastmod>2025-03-07T06:27:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://it-premium.com.ua/blog/eutelsat-replace-starlink-ukraine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://it-premium.com.ua/en/blog/eutelsat-starlink-ukraine/"
                 />
   </url><url>
     <loc>https://it-premium.com.ua/en/blog/majorana-1-top-5/</loc>

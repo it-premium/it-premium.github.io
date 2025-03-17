@@ -6,8 +6,15 @@
     <description>Recent content in Posts and Articles on IT-Premium the premium support for IT services</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Mar 2025 06:27:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 08:17:00 +0000</lastBuildDate>
     <atom:link href="https://it-premium.com.ua/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub Action Vulnerability tj-actions/changed-files </title>
+      <link>https://it-premium.com.ua/en/blog/tj-actions-changed-files-github-action-vulnerability/</link>
+      <pubDate>Mon, 17 Mar 2025 08:17:00 +0000</pubDate>
+      <guid>https://it-premium.com.ua/en/blog/tj-actions-changed-files-github-action-vulnerability/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;It seems likely that the tj-actions/changed-files GitHub Action was compromised in a supply chain attack, potentially leaking secrets from CI/CD pipelines.&lt;/li&gt;&#xA;&lt;li&gt;Research suggests the attack started around March 14, 2025, affecting over 23,000 repositories, with secrets exposed in public build logs.&lt;/li&gt;&#xA;&lt;li&gt;The evidence leans toward the malicious code dumping CI runner memory, with secrets double-encoded in base64 for public visibility.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;&#xA;&lt;p&gt;The tj-actions/changed-files is a popular GitHub Action used to identify changed files in repositories, aiding in CI/CD processes. Recently, it has been at the center of a security incident that could impact many users relying on automated workflows.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Can Eutelsat Replace Starlink in Ukraine&#39;s War with Russia?</title>
       <link>https://it-premium.com.ua/en/blog/eutelsat-starlink-ukraine/</link>
