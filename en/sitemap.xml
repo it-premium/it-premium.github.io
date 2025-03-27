@@ -271,6 +271,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://it-premium.com.ua/ru/blog/quantum-chip-majorana-1-detailed-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://it-premium.com.ua/en/blog/majorana-1-detailed-analysis/"
                 />
